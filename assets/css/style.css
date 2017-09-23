@@ -127,7 +127,7 @@ footer {
     padding-right: 0px;
     padding-top: 20px;
     margin-top: 805px;
-    border-top: thick double #4aaaa5;
+    border-top: solid 5px #4aaaa5;
 }
 
 .total {
